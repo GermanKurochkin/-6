@@ -1,0 +1,11 @@
+C:\Users\germa\source\repos\лаб6\лаб6\bin\Debug\netcoreapp3.0\лаб6.exe
+C:\Users\germa\source\repos\лаб6\лаб6\bin\Debug\netcoreapp3.0\лаб6.deps.json
+C:\Users\germa\source\repos\лаб6\лаб6\bin\Debug\netcoreapp3.0\лаб6.runtimeconfig.json
+C:\Users\germa\source\repos\лаб6\лаб6\bin\Debug\netcoreapp3.0\лаб6.runtimeconfig.dev.json
+C:\Users\germa\source\repos\лаб6\лаб6\bin\Debug\netcoreapp3.0\лаб6.dll
+C:\Users\germa\source\repos\лаб6\лаб6\bin\Debug\netcoreapp3.0\лаб6.pdb
+C:\Users\germa\source\repos\лаб6\лаб6\obj\Debug\netcoreapp3.0\лаб6.csprojAssemblyReference.cache
+C:\Users\germa\source\repos\лаб6\лаб6\obj\Debug\netcoreapp3.0\лаб6.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\лаб6\лаб6\obj\Debug\netcoreapp3.0\лаб6.AssemblyInfo.cs
+C:\Users\germa\source\repos\лаб6\лаб6\obj\Debug\netcoreapp3.0\лаб6.dll
+C:\Users\germa\source\repos\лаб6\лаб6\obj\Debug\netcoreapp3.0\лаб6.pdb
